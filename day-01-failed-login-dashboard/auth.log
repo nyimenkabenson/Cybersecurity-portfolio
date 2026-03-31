@@ -1,0 +1,500 @@
+Apr 01 00:01:28 auth-server sshd[7514]: Failed password for invalid user admin from 45.33.32.156 port 59589 ssh2
+Apr 01 00:03:43 auth-server sshd[6192]: Failed password for invalid user administrator from 45.33.32.156 port 40734 ssh2
+Apr 01 00:06:28 prod-db-01 sshd[8122]: Failed password for invalid user root from 194.165.16.99 port 53431 ssh2
+Apr 01 00:08:45 app-node-02 sshd[5518]: Failed password for invalid user test from 185.220.101.45 port 47098 ssh2
+Apr 01 00:12:59 app-node-02 sshd[9949]: Failed password for invalid user admin from 45.33.32.156 port 44365 ssh2
+Apr 01 00:15:56 auth-server sshd[7367]: Failed password for invalid user oracle from 194.165.16.99 port 46651 ssh2
+Apr 01 00:22:04 prod-db-01 sshd[3386]: Failed password for invalid user admin from 45.33.32.156 port 40740 ssh2
+Apr 01 00:28:58 web-server-01 sshd[3686]: Failed password for invalid user root from 185.220.101.45 port 59815 ssh2
+Apr 01 00:29:29 app-node-02 sshd[2038]: Failed password for invalid user guest from 103.75.190.12 port 60068 ssh2
+Apr 01 00:32:05 auth-server sshd[5995]: Failed password for invalid user test from 45.33.32.156 port 44769 ssh2
+Apr 01 00:35:19 app-node-02 sshd[5022]: Failed password for invalid user root from 194.165.16.99 port 46780 ssh2
+Apr 01 00:36:33 auth-server sshd[6706]: Failed password for invalid user test from 185.220.101.45 port 51437 ssh2
+Apr 01 00:37:46 web-server-01 sshd[8291]: Failed password for invalid user root from 185.220.101.45 port 62290 ssh2
+Apr 01 00:37:55 auth-server sshd[1977]: Failed password for invalid user test from 194.165.16.99 port 61346 ssh2
+Apr 01 00:41:02 web-server-01 sshd[4310]: Failed password for invalid user guest from 103.75.190.12 port 63358 ssh2
+Apr 01 00:41:11 prod-db-01 sshd[7455]: Failed password for invalid user test from 103.75.190.12 port 45640 ssh2
+Apr 01 00:43:58 prod-db-01 sshd[9924]: Failed password for invalid user administrator from 45.33.32.156 port 60160 ssh2
+Apr 01 00:45:26 web-server-01 sshd[7480]: Failed password for invalid user root from 103.75.190.12 port 52710 ssh2
+Apr 01 00:45:43 app-node-02 sshd[4306]: Failed password for invalid user oracle from 45.33.32.156 port 55573 ssh2
+Apr 01 00:47:18 web-server-01 sshd[7450]: Failed password for invalid user test from 91.240.118.172 port 63721 ssh2
+Apr 01 00:47:33 app-node-02 sshd[8387]: Failed password for invalid user test from 103.75.190.12 port 55736 ssh2
+Apr 01 00:47:41 app-node-02 sshd[5557]: Failed password for invalid user administrator from 91.240.118.172 port 64368 ssh2
+Apr 01 00:50:15 auth-server sshd[6343]: Failed password for invalid user administrator from 103.75.190.12 port 43652 ssh2
+Apr 01 00:54:28 web-server-01 sshd[8876]: Failed password for sarah.k from 10.0.0.5 port 47600 ssh2
+Apr 01 00:59:08 app-node-02 sshd[5850]: Failed password for invalid user oracle from 45.33.32.156 port 54950 ssh2
+Apr 01 01:04:03 web-server-01 sshd[9503]: Failed password for invalid user administrator from 185.220.101.45 port 62724 ssh2
+Apr 01 01:04:31 web-server-01 sshd[2655]: Failed password for invalid user administrator from 194.165.16.99 port 56198 ssh2
+Apr 01 01:07:19 auth-server sshd[1660]: Failed password for invalid user test from 185.220.101.45 port 53136 ssh2
+Apr 01 01:10:10 auth-server sshd[1706]: Failed password for invalid user test from 194.165.16.99 port 64267 ssh2
+Apr 01 01:17:15 auth-server sshd[6202]: Failed password for invalid user administrator from 91.240.118.172 port 40015 ssh2
+Apr 01 01:23:43 prod-db-01 sshd[5732]: Failed password for invalid user oracle from 103.75.190.12 port 60794 ssh2
+Apr 01 01:27:21 app-node-02 sshd[5689]: Failed password for invalid user root from 103.75.190.12 port 55942 ssh2
+Apr 01 01:27:33 prod-db-01 sshd[8079]: Failed password for invalid user guest from 91.240.118.172 port 45808 ssh2
+Apr 01 01:27:41 app-node-02 sshd[7315]: Failed password for invalid user admin from 91.240.118.172 port 45287 ssh2
+Apr 01 01:30:44 web-server-01 sshd[5935]: Failed password for invalid user test from 91.240.118.172 port 46692 ssh2
+Apr 01 01:33:49 auth-server sshd[9440]: Failed password for invalid user guest from 185.220.101.45 port 46386 ssh2
+Apr 01 01:34:40 web-server-01 sshd[7913]: Failed password for invalid user admin from 185.220.101.45 port 62473 ssh2
+Apr 01 01:41:46 prod-db-01 sshd[4197]: Failed password for invalid user admin from 185.220.101.45 port 46317 ssh2
+Apr 01 01:43:44 auth-server sshd[1477]: Accepted password for jsmith from 192.168.1.22 port 40327 ssh2
+Apr 01 01:43:54 auth-server sshd[1040]: Accepted password for jsmith from 192.168.1.10 port 44080 ssh2
+Apr 01 01:46:09 app-node-02 sshd[1736]: Failed password for invalid user oracle from 91.240.118.172 port 46169 ssh2
+Apr 01 01:46:18 prod-db-01 sshd[7069]: Failed password for invalid user root from 185.220.101.45 port 47490 ssh2
+Apr 01 01:47:09 auth-server sshd[5243]: Failed password for invalid user guest from 45.33.32.156 port 56701 ssh2
+Apr 01 01:49:14 prod-db-01 sshd[1006]: Failed password for jsmith from 192.168.1.22 port 59589 ssh2
+Apr 01 01:51:16 web-server-01 sshd[2846]: Failed password for invalid user guest from 185.220.101.45 port 41139 ssh2
+Apr 01 01:54:28 auth-server sshd[8830]: Failed password for invalid user administrator from 194.165.16.99 port 43353 ssh2
+Apr 01 01:56:12 auth-server sshd[8984]: Failed password for invalid user administrator from 91.240.118.172 port 60214 ssh2
+Apr 01 01:56:14 auth-server sshd[3991]: Failed password for invalid user test from 91.240.118.172 port 46811 ssh2
+Apr 01 01:57:01 prod-db-01 sshd[2643]: Failed password for invalid user oracle from 185.220.101.45 port 58148 ssh2
+Apr 01 02:05:15 auth-server sshd[1893]: Failed password for invalid user oracle from 45.33.32.156 port 59172 ssh2
+Apr 01 02:05:38 auth-server sshd[1867]: Failed password for invalid user admin from 91.240.118.172 port 53337 ssh2
+Apr 01 02:06:25 web-server-01 sshd[4485]: Failed password for invalid user guest from 194.165.16.99 port 43008 ssh2
+Apr 01 02:08:22 app-node-02 sshd[2328]: Failed password for invalid user root from 91.240.118.172 port 50948 ssh2
+Apr 01 02:13:13 auth-server sshd[4818]: Failed password for invalid user root from 185.220.101.45 port 52939 ssh2
+Apr 01 02:14:29 auth-server sshd[4373]: Failed password for sarah.k from 192.168.1.10 port 53477 ssh2
+Apr 01 02:17:20 web-server-01 sshd[5191]: Failed password for invalid user administrator from 103.75.190.12 port 64449 ssh2
+Apr 01 02:22:04 web-server-01 sshd[8040]: Failed password for invalid user admin from 103.75.190.12 port 41403 ssh2
+Apr 01 02:33:24 web-server-01 sshd[2962]: Failed password for invalid user oracle from 45.33.32.156 port 61812 ssh2
+Apr 01 02:33:52 prod-db-01 sshd[4938]: Failed password for invalid user admin from 91.240.118.172 port 56605 ssh2
+Apr 01 02:37:19 app-node-02 sshd[6701]: Failed password for invalid user root from 194.165.16.99 port 52167 ssh2
+Apr 01 02:38:10 web-server-01 sshd[7580]: Failed password for invalid user admin from 103.75.190.12 port 62356 ssh2
+Apr 01 02:39:01 app-node-02 sshd[5861]: Failed password for invalid user admin from 103.75.190.12 port 56591 ssh2
+Apr 01 02:42:30 app-node-02 sshd[4416]: Failed password for invalid user admin from 185.220.101.45 port 47533 ssh2
+Apr 01 02:44:43 app-node-02 sshd[9707]: Failed password for invalid user test from 185.220.101.45 port 52835 ssh2
+Apr 01 02:44:49 app-node-02 sshd[4678]: Failed password for invalid user oracle from 194.165.16.99 port 48711 ssh2
+Apr 01 02:49:33 prod-db-01 sshd[3231]: Failed password for dev01 from 10.0.0.8 port 40512 ssh2
+Apr 01 02:53:06 app-node-02 sshd[1045]: Accepted password for jsmith from 10.0.0.8 port 53397 ssh2
+Apr 01 02:56:29 app-node-02 sshd[9812]: Failed password for invalid user guest from 185.220.101.45 port 48757 ssh2
+Apr 01 03:02:13 web-server-01 sshd[4104]: Failed password for invalid user admin from 194.165.16.99 port 45933 ssh2
+Apr 01 03:03:22 prod-db-01 sshd[6229]: Failed password for invalid user admin from 185.220.101.45 port 45356 ssh2
+Apr 01 03:05:21 web-server-01 sshd[7318]: Accepted password for sarah.k from 10.0.0.5 port 45701 ssh2
+Apr 01 03:06:00 app-node-02 sshd[3740]: Failed password for invalid user root from 91.240.118.172 port 48843 ssh2
+Apr 01 03:11:51 auth-server sshd[9261]: Failed password for invalid user guest from 45.33.32.156 port 64333 ssh2
+Apr 01 03:12:52 web-server-01 sshd[4386]: Accepted password for sarah.k from 10.0.0.5 port 63142 ssh2
+Apr 01 03:14:05 auth-server sshd[2339]: Failed password for invalid user admin from 194.165.16.99 port 53143 ssh2
+Apr 01 03:15:25 web-server-01 sshd[3074]: Failed password for invalid user admin from 103.75.190.12 port 62819 ssh2
+Apr 01 03:21:54 web-server-01 sshd[4505]: Failed password for invalid user admin from 45.33.32.156 port 48697 ssh2
+Apr 01 03:24:33 prod-db-01 sshd[5544]: Failed password for invalid user admin from 91.240.118.172 port 63453 ssh2
+Apr 01 03:26:21 auth-server sshd[9744]: Accepted password for sarah.k from 10.0.0.5 port 63373 ssh2
+Apr 01 03:29:40 app-node-02 sshd[9766]: Accepted password for dev01 from 192.168.1.22 port 42856 ssh2
+Apr 01 03:33:21 app-node-02 sshd[4754]: Failed password for invalid user oracle from 194.165.16.99 port 43127 ssh2
+Apr 01 03:34:33 web-server-01 sshd[5024]: Failed password for invalid user admin from 103.75.190.12 port 58835 ssh2
+Apr 01 03:36:15 app-node-02 sshd[5744]: Failed password for invalid user test from 91.240.118.172 port 47083 ssh2
+Apr 01 03:43:03 app-node-02 sshd[7656]: Failed password for invalid user root from 103.75.190.12 port 46640 ssh2
+Apr 01 03:43:58 app-node-02 sshd[7601]: Failed password for invalid user admin from 194.165.16.99 port 48492 ssh2
+Apr 01 03:44:51 prod-db-01 sshd[2756]: Failed password for sarah.k from 10.0.0.5 port 61439 ssh2
+Apr 01 03:50:51 prod-db-01 sshd[1935]: Failed password for invalid user test from 45.33.32.156 port 64922 ssh2
+Apr 01 03:51:45 prod-db-01 sshd[5130]: Failed password for invalid user guest from 185.220.101.45 port 49497 ssh2
+Apr 01 03:52:30 app-node-02 sshd[9591]: Failed password for invalid user test from 194.165.16.99 port 51817 ssh2
+Apr 01 03:54:49 app-node-02 sshd[2972]: Accepted password for sarah.k from 10.0.0.8 port 61955 ssh2
+Apr 01 03:57:47 auth-server sshd[3080]: Failed password for invalid user root from 103.75.190.12 port 61758 ssh2
+Apr 01 04:01:55 app-node-02 sshd[4589]: Failed password for invalid user administrator from 45.33.32.156 port 54619 ssh2
+Apr 01 04:02:21 web-server-01 sshd[2513]: Failed password for invalid user admin from 45.33.32.156 port 50729 ssh2
+Apr 01 04:04:19 web-server-01 sshd[3577]: Failed password for invalid user guest from 91.240.118.172 port 55027 ssh2
+Apr 01 04:05:36 app-node-02 sshd[8176]: Failed password for invalid user test from 91.240.118.172 port 58132 ssh2
+Apr 01 04:06:05 web-server-01 sshd[2375]: Failed password for invalid user root from 103.75.190.12 port 47038 ssh2
+Apr 01 04:09:12 prod-db-01 sshd[9553]: Failed password for invalid user guest from 45.33.32.156 port 47760 ssh2
+Apr 01 04:10:13 auth-server sshd[8611]: Failed password for invalid user admin from 103.75.190.12 port 59332 ssh2
+Apr 01 04:10:56 web-server-01 sshd[2331]: Failed password for invalid user root from 194.165.16.99 port 64260 ssh2
+Apr 01 04:11:36 web-server-01 sshd[9781]: Failed password for invalid user administrator from 185.220.101.45 port 58874 ssh2
+Apr 01 04:15:30 app-node-02 sshd[5758]: Accepted password for dev01 from 192.168.1.22 port 60286 ssh2
+Apr 01 04:23:20 web-server-01 sshd[5660]: Failed password for jsmith from 10.0.0.8 port 62419 ssh2
+Apr 01 04:23:24 web-server-01 sshd[5275]: Failed password for invalid user oracle from 194.165.16.99 port 44694 ssh2
+Apr 01 04:25:14 app-node-02 sshd[9186]: Failed password for invalid user admin from 185.220.101.45 port 45547 ssh2
+Apr 01 04:26:40 prod-db-01 sshd[7967]: Failed password for invalid user root from 194.165.16.99 port 46931 ssh2
+Apr 01 04:27:22 app-node-02 sshd[3770]: Failed password for jsmith from 192.168.1.10 port 54627 ssh2
+Apr 01 04:32:20 app-node-02 sshd[1696]: Failed password for invalid user root from 45.33.32.156 port 60748 ssh2
+Apr 01 04:32:42 web-server-01 sshd[8293]: Accepted password for jsmith from 10.0.0.8 port 56958 ssh2
+Apr 01 04:33:27 prod-db-01 sshd[6599]: Accepted password for sarah.k from 192.168.1.10 port 64047 ssh2
+Apr 01 04:54:23 web-server-01 sshd[5387]: Failed password for invalid user test from 45.33.32.156 port 63610 ssh2
+Apr 01 04:56:48 prod-db-01 sshd[8962]: Failed password for invalid user test from 194.165.16.99 port 50817 ssh2
+Apr 01 04:59:50 app-node-02 sshd[8878]: Failed password for invalid user guest from 185.220.101.45 port 51465 ssh2
+Apr 01 05:01:10 prod-db-01 sshd[6850]: Failed password for invalid user oracle from 185.220.101.45 port 53320 ssh2
+Apr 01 05:03:45 auth-server sshd[5103]: Failed password for invalid user root from 91.240.118.172 port 59579 ssh2
+Apr 01 05:07:18 prod-db-01 sshd[8192]: Failed password for invalid user test from 194.165.16.99 port 43838 ssh2
+Apr 01 05:09:02 prod-db-01 sshd[9193]: Failed password for invalid user guest from 45.33.32.156 port 60569 ssh2
+Apr 01 05:09:14 app-node-02 sshd[4701]: Failed password for invalid user guest from 194.165.16.99 port 40473 ssh2
+Apr 01 05:12:54 auth-server sshd[8302]: Failed password for invalid user administrator from 91.240.118.172 port 46031 ssh2
+Apr 01 05:16:48 auth-server sshd[2218]: Failed password for invalid user administrator from 103.75.190.12 port 47946 ssh2
+Apr 01 05:24:19 prod-db-01 sshd[6753]: Failed password for invalid user root from 103.75.190.12 port 48252 ssh2
+Apr 01 05:24:31 prod-db-01 sshd[8811]: Failed password for dev01 from 10.0.0.5 port 49722 ssh2
+Apr 01 05:25:37 auth-server sshd[7932]: Failed password for invalid user root from 185.220.101.45 port 41908 ssh2
+Apr 01 05:30:21 prod-db-01 sshd[6884]: Failed password for invalid user admin from 185.220.101.45 port 61036 ssh2
+Apr 01 05:31:04 web-server-01 sshd[3232]: Failed password for invalid user root from 91.240.118.172 port 56960 ssh2
+Apr 01 05:33:04 prod-db-01 sshd[4093]: Failed password for invalid user root from 45.33.32.156 port 43457 ssh2
+Apr 01 05:35:48 auth-server sshd[8623]: Failed password for invalid user administrator from 91.240.118.172 port 42695 ssh2
+Apr 01 05:49:31 web-server-01 sshd[6706]: Failed password for invalid user test from 185.220.101.45 port 43259 ssh2
+Apr 01 05:51:38 app-node-02 sshd[4834]: Failed password for invalid user oracle from 103.75.190.12 port 43912 ssh2
+Apr 01 05:52:08 app-node-02 sshd[4784]: Failed password for invalid user administrator from 194.165.16.99 port 53450 ssh2
+Apr 01 05:52:19 auth-server sshd[3029]: Failed password for invalid user root from 45.33.32.156 port 60810 ssh2
+Apr 01 05:56:52 app-node-02 sshd[4045]: Failed password for sarah.k from 192.168.1.22 port 54878 ssh2
+Apr 01 05:59:38 auth-server sshd[3746]: Failed password for invalid user oracle from 194.165.16.99 port 64235 ssh2
+Apr 01 06:01:10 prod-db-01 sshd[5490]: Failed password for invalid user root from 91.240.118.172 port 62642 ssh2
+Apr 01 06:04:00 prod-db-01 sshd[2476]: Failed password for invalid user oracle from 91.240.118.172 port 40829 ssh2
+Apr 01 06:06:42 prod-db-01 sshd[7315]: Accepted password for sarah.k from 192.168.1.22 port 60748 ssh2
+Apr 01 06:08:13 app-node-02 sshd[6655]: Failed password for mjones from 10.0.0.8 port 46624 ssh2
+Apr 01 06:09:15 web-server-01 sshd[8597]: Failed password for invalid user root from 103.75.190.12 port 46251 ssh2
+Apr 01 06:09:48 web-server-01 sshd[2937]: Accepted password for sarah.k from 10.0.0.8 port 47779 ssh2
+Apr 01 06:10:27 app-node-02 sshd[1454]: Failed password for invalid user admin from 45.33.32.156 port 57870 ssh2
+Apr 01 06:10:46 app-node-02 sshd[5163]: Failed password for invalid user administrator from 91.240.118.172 port 61281 ssh2
+Apr 01 06:12:14 auth-server sshd[3294]: Failed password for invalid user root from 185.220.101.45 port 54075 ssh2
+Apr 01 06:13:34 app-node-02 sshd[4766]: Failed password for invalid user root from 194.165.16.99 port 50221 ssh2
+Apr 01 06:14:56 prod-db-01 sshd[9328]: Failed password for dev01 from 192.168.1.10 port 51500 ssh2
+Apr 01 06:21:19 web-server-01 sshd[2885]: Accepted password for dev01 from 192.168.1.22 port 41710 ssh2
+Apr 01 06:25:18 web-server-01 sshd[6282]: Failed password for invalid user root from 45.33.32.156 port 57608 ssh2
+Apr 01 06:30:18 app-node-02 sshd[1403]: Failed password for invalid user admin from 185.220.101.45 port 50153 ssh2
+Apr 01 06:30:33 web-server-01 sshd[1707]: Failed password for invalid user administrator from 91.240.118.172 port 44015 ssh2
+Apr 01 06:31:41 app-node-02 sshd[7748]: Accepted password for dev01 from 192.168.1.10 port 53152 ssh2
+Apr 01 06:31:42 prod-db-01 sshd[6587]: Accepted password for mjones from 192.168.1.22 port 62719 ssh2
+Apr 01 06:33:50 app-node-02 sshd[8028]: Accepted password for dev01 from 192.168.1.22 port 62851 ssh2
+Apr 01 06:37:02 auth-server sshd[6715]: Failed password for invalid user oracle from 185.220.101.45 port 52198 ssh2
+Apr 01 06:37:59 web-server-01 sshd[6981]: Failed password for invalid user admin from 185.220.101.45 port 53716 ssh2
+Apr 01 06:45:44 app-node-02 sshd[7452]: Failed password for invalid user oracle from 91.240.118.172 port 43471 ssh2
+Apr 01 06:46:46 app-node-02 sshd[3524]: Failed password for invalid user oracle from 45.33.32.156 port 64692 ssh2
+Apr 01 06:47:14 prod-db-01 sshd[3334]: Failed password for invalid user administrator from 91.240.118.172 port 46441 ssh2
+Apr 01 06:55:20 auth-server sshd[9452]: Failed password for invalid user root from 194.165.16.99 port 55669 ssh2
+Apr 01 06:55:35 prod-db-01 sshd[3134]: Failed password for invalid user administrator from 103.75.190.12 port 52294 ssh2
+Apr 01 07:01:37 web-server-01 sshd[1474]: Failed password for invalid user guest from 103.75.190.12 port 64347 ssh2
+Apr 01 07:12:52 prod-db-01 sshd[4195]: Failed password for invalid user admin from 194.165.16.99 port 43937 ssh2
+Apr 01 07:16:30 web-server-01 sshd[9733]: Failed password for invalid user guest from 185.220.101.45 port 47259 ssh2
+Apr 01 07:21:40 auth-server sshd[1226]: Failed password for invalid user guest from 91.240.118.172 port 64595 ssh2
+Apr 01 07:23:29 prod-db-01 sshd[1418]: Failed password for invalid user admin from 91.240.118.172 port 47322 ssh2
+Apr 01 07:29:20 app-node-02 sshd[1497]: Failed password for invalid user guest from 185.220.101.45 port 49814 ssh2
+Apr 01 07:31:40 auth-server sshd[1400]: Failed password for invalid user administrator from 45.33.32.156 port 47905 ssh2
+Apr 01 07:32:28 web-server-01 sshd[4946]: Failed password for invalid user admin from 45.33.32.156 port 55036 ssh2
+Apr 01 07:35:06 auth-server sshd[4822]: Accepted password for mjones from 10.0.0.5 port 59275 ssh2
+Apr 01 07:35:17 auth-server sshd[7963]: Failed password for invalid user oracle from 185.220.101.45 port 62289 ssh2
+Apr 01 07:35:40 web-server-01 sshd[1369]: Failed password for invalid user root from 45.33.32.156 port 53394 ssh2
+Apr 01 07:40:37 prod-db-01 sshd[6259]: Failed password for invalid user administrator from 103.75.190.12 port 49920 ssh2
+Apr 01 07:47:34 app-node-02 sshd[1307]: Accepted password for sarah.k from 10.0.0.5 port 60711 ssh2
+Apr 01 07:54:25 web-server-01 sshd[3546]: Failed password for invalid user root from 45.33.32.156 port 51173 ssh2
+Apr 01 07:55:13 auth-server sshd[5651]: Failed password for invalid user administrator from 194.165.16.99 port 52027 ssh2
+Apr 01 07:57:46 app-node-02 sshd[1231]: Failed password for invalid user guest from 103.75.190.12 port 56180 ssh2
+Apr 01 07:59:13 prod-db-01 sshd[2672]: Failed password for invalid user admin from 45.33.32.156 port 56695 ssh2
+Apr 01 08:00:52 app-node-02 sshd[3566]: Accepted password for dev01 from 10.0.0.8 port 42027 ssh2
+Apr 01 08:09:40 prod-db-01 sshd[5224]: Failed password for invalid user administrator from 91.240.118.172 port 55836 ssh2
+Apr 01 08:20:57 auth-server sshd[6458]: Failed password for invalid user admin from 194.165.16.99 port 56314 ssh2
+Apr 01 08:23:58 prod-db-01 sshd[9994]: Accepted password for mjones from 10.0.0.8 port 53111 ssh2
+Apr 01 08:26:55 prod-db-01 sshd[9510]: Failed password for invalid user oracle from 194.165.16.99 port 54904 ssh2
+Apr 01 08:31:56 web-server-01 sshd[6050]: Accepted password for jsmith from 10.0.0.8 port 42656 ssh2
+Apr 01 08:33:47 prod-db-01 sshd[9970]: Failed password for invalid user oracle from 185.220.101.45 port 63633 ssh2
+Apr 01 08:42:06 app-node-02 sshd[6343]: Failed password for invalid user guest from 45.33.32.156 port 53093 ssh2
+Apr 01 08:47:38 auth-server sshd[8605]: Failed password for invalid user root from 103.75.190.12 port 53600 ssh2
+Apr 01 08:49:07 app-node-02 sshd[7245]: Failed password for invalid user oracle from 45.33.32.156 port 62458 ssh2
+Apr 01 08:53:28 prod-db-01 sshd[4155]: Failed password for invalid user guest from 194.165.16.99 port 47418 ssh2
+Apr 01 08:53:55 app-node-02 sshd[3957]: Failed password for invalid user guest from 91.240.118.172 port 57193 ssh2
+Apr 01 08:55:52 app-node-02 sshd[6413]: Failed password for invalid user root from 45.33.32.156 port 52180 ssh2
+Apr 01 08:57:14 prod-db-01 sshd[9421]: Failed password for invalid user root from 45.33.32.156 port 42533 ssh2
+Apr 01 08:59:02 web-server-01 sshd[5852]: Accepted password for sarah.k from 192.168.1.22 port 52706 ssh2
+Apr 01 09:00:12 app-node-02 sshd[2464]: Failed password for invalid user guest from 103.75.190.12 port 41038 ssh2
+Apr 01 09:06:14 app-node-02 sshd[6190]: Failed password for jsmith from 10.0.0.8 port 53152 ssh2
+Apr 01 09:08:33 prod-db-01 sshd[3745]: Failed password for invalid user root from 91.240.118.172 port 62294 ssh2
+Apr 01 09:10:08 web-server-01 sshd[1161]: Accepted password for mjones from 10.0.0.8 port 55032 ssh2
+Apr 01 09:22:48 auth-server sshd[3193]: Failed password for invalid user root from 91.240.118.172 port 53044 ssh2
+Apr 01 09:25:31 prod-db-01 sshd[1337]: Accepted password for jsmith from 192.168.1.22 port 58991 ssh2
+Apr 01 09:28:19 web-server-01 sshd[9470]: Accepted password for sarah.k from 10.0.0.5 port 62873 ssh2
+Apr 01 09:32:34 app-node-02 sshd[6968]: Accepted password for jsmith from 192.168.1.22 port 54444 ssh2
+Apr 01 09:33:19 app-node-02 sshd[3002]: Failed password for invalid user guest from 194.165.16.99 port 53821 ssh2
+Apr 01 09:36:44 app-node-02 sshd[3783]: Accepted password for jsmith from 192.168.1.10 port 40961 ssh2
+Apr 01 09:38:14 prod-db-01 sshd[4453]: Failed password for invalid user test from 194.165.16.99 port 60501 ssh2
+Apr 01 09:43:33 web-server-01 sshd[2571]: Failed password for invalid user oracle from 91.240.118.172 port 49987 ssh2
+Apr 01 09:46:25 prod-db-01 sshd[7359]: Failed password for invalid user administrator from 45.33.32.156 port 59160 ssh2
+Apr 01 09:48:12 prod-db-01 sshd[5228]: Failed password for invalid user root from 91.240.118.172 port 55154 ssh2
+Apr 01 09:48:17 app-node-02 sshd[6531]: Accepted password for dev01 from 192.168.1.22 port 54050 ssh2
+Apr 01 09:50:14 web-server-01 sshd[1725]: Failed password for invalid user guest from 194.165.16.99 port 52461 ssh2
+Apr 01 09:51:04 app-node-02 sshd[9882]: Failed password for invalid user administrator from 45.33.32.156 port 50028 ssh2
+Apr 01 10:08:12 app-node-02 sshd[4783]: Failed password for invalid user oracle from 185.220.101.45 port 50902 ssh2
+Apr 01 10:08:15 prod-db-01 sshd[1327]: Failed password for invalid user oracle from 194.165.16.99 port 57885 ssh2
+Apr 01 10:10:13 web-server-01 sshd[4819]: Failed password for invalid user oracle from 45.33.32.156 port 59144 ssh2
+Apr 01 10:12:38 prod-db-01 sshd[4799]: Failed password for invalid user oracle from 91.240.118.172 port 42468 ssh2
+Apr 01 10:15:11 auth-server sshd[8654]: Failed password for invalid user administrator from 103.75.190.12 port 43850 ssh2
+Apr 01 10:16:28 prod-db-01 sshd[7520]: Failed password for invalid user administrator from 194.165.16.99 port 40615 ssh2
+Apr 01 10:27:05 web-server-01 sshd[1149]: Failed password for invalid user guest from 91.240.118.172 port 49273 ssh2
+Apr 01 10:30:49 web-server-01 sshd[1175]: Accepted password for dev01 from 10.0.0.5 port 55624 ssh2
+Apr 01 10:32:14 app-node-02 sshd[1858]: Failed password for invalid user administrator from 185.220.101.45 port 45266 ssh2
+Apr 01 10:38:11 auth-server sshd[1125]: Failed password for invalid user oracle from 45.33.32.156 port 64708 ssh2
+Apr 01 10:39:32 auth-server sshd[4171]: Failed password for invalid user administrator from 185.220.101.45 port 62377 ssh2
+Apr 01 10:45:13 web-server-01 sshd[6694]: Failed password for dev01 from 10.0.0.8 port 41365 ssh2
+Apr 01 10:46:08 prod-db-01 sshd[9287]: Failed password for invalid user oracle from 103.75.190.12 port 43505 ssh2
+Apr 01 10:50:45 app-node-02 sshd[1024]: Accepted password for jsmith from 10.0.0.8 port 63636 ssh2
+Apr 01 11:03:29 web-server-01 sshd[1498]: Failed password for sarah.k from 192.168.1.22 port 61288 ssh2
+Apr 01 11:06:17 auth-server sshd[9963]: Failed password for invalid user admin from 45.33.32.156 port 57549 ssh2
+Apr 01 11:20:09 auth-server sshd[3674]: Accepted password for dev01 from 192.168.1.22 port 45374 ssh2
+Apr 01 11:24:53 auth-server sshd[3323]: Failed password for invalid user oracle from 194.165.16.99 port 40809 ssh2
+Apr 01 11:25:59 prod-db-01 sshd[4917]: Accepted password for sarah.k from 10.0.0.8 port 46290 ssh2
+Apr 01 11:29:12 auth-server sshd[1650]: Accepted password for dev01 from 10.0.0.8 port 63729 ssh2
+Apr 01 11:29:16 web-server-01 sshd[9467]: Failed password for invalid user oracle from 185.220.101.45 port 58155 ssh2
+Apr 01 11:30:33 web-server-01 sshd[6390]: Failed password for invalid user oracle from 91.240.118.172 port 42310 ssh2
+Apr 01 11:32:20 auth-server sshd[2689]: Failed password for invalid user oracle from 103.75.190.12 port 61751 ssh2
+Apr 01 11:36:02 auth-server sshd[7987]: Failed password for invalid user administrator from 45.33.32.156 port 57712 ssh2
+Apr 01 11:36:48 auth-server sshd[7232]: Accepted password for mjones from 192.168.1.10 port 42472 ssh2
+Apr 01 11:37:08 app-node-02 sshd[3443]: Failed password for invalid user oracle from 194.165.16.99 port 56221 ssh2
+Apr 01 11:38:06 app-node-02 sshd[4821]: Failed password for invalid user guest from 185.220.101.45 port 54042 ssh2
+Apr 01 11:41:32 prod-db-01 sshd[2790]: Failed password for invalid user oracle from 45.33.32.156 port 53074 ssh2
+Apr 01 11:42:21 web-server-01 sshd[4599]: Failed password for invalid user root from 45.33.32.156 port 43373 ssh2
+Apr 01 11:42:50 auth-server sshd[4129]: Failed password for invalid user guest from 45.33.32.156 port 42699 ssh2
+Apr 01 11:43:45 prod-db-01 sshd[9610]: Accepted password for dev01 from 10.0.0.5 port 64352 ssh2
+Apr 01 11:47:19 app-node-02 sshd[7463]: Failed password for invalid user admin from 91.240.118.172 port 40687 ssh2
+Apr 01 11:48:07 prod-db-01 sshd[5317]: Failed password for invalid user oracle from 91.240.118.172 port 58693 ssh2
+Apr 01 11:48:21 app-node-02 sshd[5576]: Failed password for invalid user admin from 45.33.32.156 port 59255 ssh2
+Apr 01 11:50:18 prod-db-01 sshd[5765]: Failed password for invalid user guest from 103.75.190.12 port 46876 ssh2
+Apr 01 11:50:55 web-server-01 sshd[8042]: Failed password for dev01 from 192.168.1.10 port 56432 ssh2
+Apr 01 11:57:01 auth-server sshd[5384]: Failed password for invalid user test from 45.33.32.156 port 54617 ssh2
+Apr 01 12:03:41 prod-db-01 sshd[3245]: Failed password for invalid user admin from 185.220.101.45 port 47256 ssh2
+Apr 01 12:03:42 prod-db-01 sshd[1252]: Failed password for mjones from 192.168.1.22 port 48170 ssh2
+Apr 01 12:12:23 app-node-02 sshd[9135]: Failed password for invalid user administrator from 103.75.190.12 port 64101 ssh2
+Apr 01 12:27:12 app-node-02 sshd[8390]: Failed password for invalid user admin from 194.165.16.99 port 55627 ssh2
+Apr 01 12:28:04 app-node-02 sshd[6167]: Failed password for invalid user admin from 45.33.32.156 port 64310 ssh2
+Apr 01 12:39:31 prod-db-01 sshd[8641]: Failed password for invalid user test from 45.33.32.156 port 46349 ssh2
+Apr 01 12:39:49 app-node-02 sshd[3301]: Failed password for invalid user test from 194.165.16.99 port 44906 ssh2
+Apr 01 12:40:46 auth-server sshd[7779]: Failed password for invalid user administrator from 91.240.118.172 port 48804 ssh2
+Apr 01 12:41:09 web-server-01 sshd[7717]: Failed password for invalid user root from 194.165.16.99 port 43341 ssh2
+Apr 01 12:41:39 web-server-01 sshd[9886]: Accepted password for jsmith from 10.0.0.5 port 64826 ssh2
+Apr 01 12:42:10 web-server-01 sshd[8176]: Failed password for invalid user guest from 103.75.190.12 port 53138 ssh2
+Apr 01 12:45:20 prod-db-01 sshd[1011]: Failed password for invalid user oracle from 45.33.32.156 port 61188 ssh2
+Apr 01 12:45:23 auth-server sshd[6654]: Failed password for invalid user admin from 91.240.118.172 port 58716 ssh2
+Apr 01 12:52:15 prod-db-01 sshd[4046]: Failed password for sarah.k from 10.0.0.8 port 41851 ssh2
+Apr 01 12:53:50 auth-server sshd[4219]: Failed password for invalid user test from 91.240.118.172 port 42313 ssh2
+Apr 01 12:55:52 auth-server sshd[9885]: Failed password for invalid user guest from 103.75.190.12 port 42634 ssh2
+Apr 01 12:57:43 auth-server sshd[6709]: Failed password for invalid user root from 185.220.101.45 port 60729 ssh2
+Apr 01 13:01:06 auth-server sshd[6509]: Failed password for invalid user oracle from 185.220.101.45 port 63171 ssh2
+Apr 01 13:01:59 auth-server sshd[3112]: Failed password for invalid user admin from 91.240.118.172 port 55020 ssh2
+Apr 01 13:04:52 prod-db-01 sshd[1967]: Failed password for invalid user administrator from 103.75.190.12 port 63769 ssh2
+Apr 01 13:10:08 auth-server sshd[9338]: Failed password for invalid user guest from 45.33.32.156 port 58541 ssh2
+Apr 01 13:10:57 prod-db-01 sshd[6698]: Failed password for invalid user administrator from 103.75.190.12 port 64878 ssh2
+Apr 01 13:11:07 web-server-01 sshd[5514]: Failed password for invalid user guest from 45.33.32.156 port 63713 ssh2
+Apr 01 13:12:00 app-node-02 sshd[5228]: Accepted password for dev01 from 192.168.1.10 port 55078 ssh2
+Apr 01 13:12:04 app-node-02 sshd[7311]: Failed password for invalid user test from 185.220.101.45 port 62248 ssh2
+Apr 01 13:12:33 prod-db-01 sshd[7178]: Failed password for jsmith from 10.0.0.5 port 50530 ssh2
+Apr 01 13:13:04 prod-db-01 sshd[9455]: Failed password for invalid user administrator from 91.240.118.172 port 55613 ssh2
+Apr 01 13:14:44 auth-server sshd[3759]: Failed password for invalid user administrator from 185.220.101.45 port 53020 ssh2
+Apr 01 13:17:05 prod-db-01 sshd[6953]: Failed password for invalid user root from 185.220.101.45 port 58722 ssh2
+Apr 01 13:17:25 web-server-01 sshd[4939]: Accepted password for sarah.k from 10.0.0.8 port 48523 ssh2
+Apr 01 13:21:24 prod-db-01 sshd[7361]: Failed password for dev01 from 192.168.1.10 port 55820 ssh2
+Apr 01 13:21:28 prod-db-01 sshd[7587]: Failed password for invalid user test from 45.33.32.156 port 51262 ssh2
+Apr 01 13:22:30 prod-db-01 sshd[5044]: Failed password for invalid user root from 103.75.190.12 port 61455 ssh2
+Apr 01 13:24:03 web-server-01 sshd[6158]: Accepted password for dev01 from 10.0.0.5 port 58991 ssh2
+Apr 01 13:24:31 app-node-02 sshd[2530]: Failed password for invalid user guest from 194.165.16.99 port 63270 ssh2
+Apr 01 13:38:54 prod-db-01 sshd[8937]: Failed password for invalid user test from 45.33.32.156 port 56881 ssh2
+Apr 01 13:39:42 app-node-02 sshd[1470]: Failed password for invalid user guest from 103.75.190.12 port 56851 ssh2
+Apr 01 13:40:04 web-server-01 sshd[4682]: Failed password for invalid user root from 91.240.118.172 port 62011 ssh2
+Apr 01 13:44:40 web-server-01 sshd[8588]: Failed password for invalid user root from 185.220.101.45 port 40453 ssh2
+Apr 01 13:45:52 app-node-02 sshd[9049]: Failed password for invalid user root from 194.165.16.99 port 64163 ssh2
+Apr 01 13:46:58 prod-db-01 sshd[8701]: Failed password for invalid user administrator from 91.240.118.172 port 43304 ssh2
+Apr 01 13:47:05 app-node-02 sshd[3424]: Accepted password for jsmith from 10.0.0.5 port 45705 ssh2
+Apr 01 13:50:38 web-server-01 sshd[4514]: Failed password for invalid user root from 185.220.101.45 port 40677 ssh2
+Apr 01 13:51:01 prod-db-01 sshd[7023]: Accepted password for jsmith from 192.168.1.10 port 63310 ssh2
+Apr 01 13:51:19 prod-db-01 sshd[2399]: Failed password for invalid user admin from 194.165.16.99 port 49621 ssh2
+Apr 01 13:55:00 app-node-02 sshd[1238]: Accepted password for mjones from 10.0.0.5 port 60333 ssh2
+Apr 01 13:56:56 prod-db-01 sshd[3828]: Failed password for invalid user test from 103.75.190.12 port 60694 ssh2
+Apr 01 13:57:11 web-server-01 sshd[1374]: Failed password for invalid user oracle from 45.33.32.156 port 59176 ssh2
+Apr 01 14:00:19 auth-server sshd[1877]: Failed password for invalid user admin from 91.240.118.172 port 46227 ssh2
+Apr 01 14:02:18 web-server-01 sshd[4885]: Failed password for invalid user oracle from 45.33.32.156 port 40939 ssh2
+Apr 01 14:03:43 prod-db-01 sshd[7210]: Failed password for invalid user oracle from 185.220.101.45 port 42785 ssh2
+Apr 01 14:04:04 web-server-01 sshd[4085]: Accepted password for jsmith from 10.0.0.5 port 58016 ssh2
+Apr 01 14:05:46 auth-server sshd[1462]: Accepted password for sarah.k from 10.0.0.8 port 63591 ssh2
+Apr 01 14:08:39 web-server-01 sshd[7542]: Failed password for invalid user oracle from 185.220.101.45 port 58770 ssh2
+Apr 01 14:12:05 prod-db-01 sshd[5142]: Failed password for invalid user administrator from 91.240.118.172 port 63956 ssh2
+Apr 01 14:14:59 prod-db-01 sshd[4433]: Failed password for invalid user oracle from 194.165.16.99 port 51042 ssh2
+Apr 01 14:17:11 web-server-01 sshd[2329]: Failed password for invalid user administrator from 103.75.190.12 port 43138 ssh2
+Apr 01 14:18:49 auth-server sshd[3111]: Failed password for invalid user guest from 185.220.101.45 port 52923 ssh2
+Apr 01 14:19:11 web-server-01 sshd[8052]: Failed password for invalid user admin from 103.75.190.12 port 45807 ssh2
+Apr 01 14:23:44 auth-server sshd[1180]: Failed password for invalid user guest from 91.240.118.172 port 53409 ssh2
+Apr 01 14:26:32 prod-db-01 sshd[9644]: Failed password for invalid user oracle from 91.240.118.172 port 49973 ssh2
+Apr 01 14:35:14 app-node-02 sshd[1029]: Failed password for invalid user guest from 185.220.101.45 port 53657 ssh2
+Apr 01 14:35:36 web-server-01 sshd[5578]: Failed password for invalid user oracle from 91.240.118.172 port 47542 ssh2
+Apr 01 14:36:19 auth-server sshd[4499]: Accepted password for dev01 from 192.168.1.22 port 50930 ssh2
+Apr 01 14:37:35 auth-server sshd[8342]: Accepted password for sarah.k from 192.168.1.22 port 46916 ssh2
+Apr 01 14:41:30 web-server-01 sshd[3022]: Failed password for invalid user root from 103.75.190.12 port 57869 ssh2
+Apr 01 14:45:38 web-server-01 sshd[8136]: Failed password for invalid user oracle from 91.240.118.172 port 48055 ssh2
+Apr 01 14:53:27 app-node-02 sshd[5342]: Failed password for invalid user test from 45.33.32.156 port 41630 ssh2
+Apr 01 14:54:21 prod-db-01 sshd[9739]: Failed password for jsmith from 10.0.0.5 port 55427 ssh2
+Apr 01 14:56:57 auth-server sshd[1778]: Failed password for invalid user test from 45.33.32.156 port 41212 ssh2
+Apr 01 15:00:08 web-server-01 sshd[2809]: Failed password for invalid user guest from 194.165.16.99 port 55292 ssh2
+Apr 01 15:01:20 auth-server sshd[5399]: Failed password for invalid user administrator from 91.240.118.172 port 49100 ssh2
+Apr 01 15:02:38 auth-server sshd[8556]: Failed password for invalid user test from 194.165.16.99 port 55800 ssh2
+Apr 01 15:02:38 prod-db-01 sshd[6951]: Failed password for invalid user admin from 103.75.190.12 port 42495 ssh2
+Apr 01 15:06:10 prod-db-01 sshd[8967]: Failed password for invalid user guest from 91.240.118.172 port 55224 ssh2
+Apr 01 15:06:24 prod-db-01 sshd[3118]: Failed password for dev01 from 192.168.1.22 port 56344 ssh2
+Apr 01 15:06:37 web-server-01 sshd[2935]: Failed password for invalid user oracle from 185.220.101.45 port 51492 ssh2
+Apr 01 15:07:10 web-server-01 sshd[8651]: Failed password for invalid user administrator from 91.240.118.172 port 52924 ssh2
+Apr 01 15:09:26 app-node-02 sshd[8462]: Failed password for invalid user guest from 45.33.32.156 port 44639 ssh2
+Apr 01 15:11:29 web-server-01 sshd[9156]: Failed password for invalid user admin from 194.165.16.99 port 58082 ssh2
+Apr 01 15:20:42 web-server-01 sshd[4877]: Failed password for invalid user oracle from 103.75.190.12 port 40805 ssh2
+Apr 01 15:23:00 web-server-01 sshd[9822]: Failed password for jsmith from 10.0.0.8 port 50070 ssh2
+Apr 01 15:25:54 app-node-02 sshd[5350]: Accepted password for mjones from 10.0.0.8 port 59407 ssh2
+Apr 01 15:27:26 web-server-01 sshd[6875]: Failed password for invalid user oracle from 45.33.32.156 port 57989 ssh2
+Apr 01 15:27:30 app-node-02 sshd[8136]: Failed password for invalid user root from 194.165.16.99 port 42383 ssh2
+Apr 01 15:27:36 app-node-02 sshd[6576]: Failed password for invalid user guest from 194.165.16.99 port 53401 ssh2
+Apr 01 15:27:55 app-node-02 sshd[9073]: Failed password for invalid user guest from 185.220.101.45 port 60780 ssh2
+Apr 01 15:29:03 auth-server sshd[6807]: Failed password for invalid user test from 194.165.16.99 port 48935 ssh2
+Apr 01 15:31:12 prod-db-01 sshd[7549]: Failed password for invalid user oracle from 185.220.101.45 port 52860 ssh2
+Apr 01 15:36:04 prod-db-01 sshd[6693]: Failed password for invalid user test from 103.75.190.12 port 55119 ssh2
+Apr 01 15:37:05 app-node-02 sshd[3253]: Accepted password for jsmith from 192.168.1.22 port 63407 ssh2
+Apr 01 15:38:34 auth-server sshd[2044]: Failed password for invalid user administrator from 185.220.101.45 port 57451 ssh2
+Apr 01 15:47:25 prod-db-01 sshd[7230]: Failed password for invalid user oracle from 45.33.32.156 port 61164 ssh2
+Apr 01 15:47:52 web-server-01 sshd[5760]: Failed password for invalid user test from 194.165.16.99 port 61508 ssh2
+Apr 01 15:48:04 app-node-02 sshd[8065]: Failed password for invalid user administrator from 103.75.190.12 port 47530 ssh2
+Apr 01 16:02:08 prod-db-01 sshd[8046]: Failed password for invalid user test from 185.220.101.45 port 40074 ssh2
+Apr 01 16:03:03 app-node-02 sshd[5557]: Failed password for invalid user test from 194.165.16.99 port 45554 ssh2
+Apr 01 16:05:14 prod-db-01 sshd[8587]: Failed password for invalid user guest from 103.75.190.12 port 53645 ssh2
+Apr 01 16:05:22 auth-server sshd[1245]: Failed password for invalid user administrator from 91.240.118.172 port 63240 ssh2
+Apr 01 16:07:18 app-node-02 sshd[2483]: Failed password for invalid user root from 45.33.32.156 port 64030 ssh2
+Apr 01 16:10:08 prod-db-01 sshd[4677]: Failed password for invalid user guest from 91.240.118.172 port 40313 ssh2
+Apr 01 16:10:10 web-server-01 sshd[4806]: Failed password for invalid user test from 45.33.32.156 port 59588 ssh2
+Apr 01 16:13:52 prod-db-01 sshd[9697]: Failed password for invalid user admin from 91.240.118.172 port 43731 ssh2
+Apr 01 16:14:14 app-node-02 sshd[5327]: Failed password for invalid user admin from 103.75.190.12 port 57569 ssh2
+Apr 01 16:18:18 web-server-01 sshd[5032]: Accepted password for jsmith from 10.0.0.8 port 40688 ssh2
+Apr 01 16:18:35 prod-db-01 sshd[5387]: Failed password for invalid user root from 194.165.16.99 port 47606 ssh2
+Apr 01 16:20:09 prod-db-01 sshd[8861]: Failed password for invalid user admin from 103.75.190.12 port 54794 ssh2
+Apr 01 16:25:52 auth-server sshd[2433]: Failed password for invalid user administrator from 185.220.101.45 port 53798 ssh2
+Apr 01 16:27:00 prod-db-01 sshd[4276]: Accepted password for jsmith from 192.168.1.10 port 62860 ssh2
+Apr 01 16:29:15 prod-db-01 sshd[8778]: Failed password for invalid user oracle from 45.33.32.156 port 49369 ssh2
+Apr 01 16:32:19 web-server-01 sshd[9617]: Failed password for invalid user oracle from 103.75.190.12 port 64948 ssh2
+Apr 01 16:32:31 auth-server sshd[3605]: Failed password for invalid user guest from 103.75.190.12 port 62951 ssh2
+Apr 01 16:34:30 web-server-01 sshd[6520]: Failed password for invalid user guest from 194.165.16.99 port 49607 ssh2
+Apr 01 16:37:49 app-node-02 sshd[7635]: Failed password for invalid user test from 103.75.190.12 port 54679 ssh2
+Apr 01 16:45:47 web-server-01 sshd[1213]: Failed password for invalid user root from 91.240.118.172 port 50657 ssh2
+Apr 01 16:45:48 prod-db-01 sshd[3096]: Failed password for dev01 from 10.0.0.5 port 62392 ssh2
+Apr 01 16:50:24 auth-server sshd[6204]: Failed password for invalid user administrator from 185.220.101.45 port 62542 ssh2
+Apr 01 16:53:49 prod-db-01 sshd[2748]: Failed password for invalid user administrator from 194.165.16.99 port 49668 ssh2
+Apr 01 16:55:25 web-server-01 sshd[8860]: Failed password for invalid user root from 103.75.190.12 port 50243 ssh2
+Apr 01 16:55:54 web-server-01 sshd[4788]: Failed password for invalid user root from 45.33.32.156 port 46027 ssh2
+Apr 01 16:58:37 auth-server sshd[7185]: Failed password for invalid user guest from 91.240.118.172 port 62885 ssh2
+Apr 01 17:03:22 prod-db-01 sshd[1944]: Failed password for invalid user oracle from 91.240.118.172 port 52831 ssh2
+Apr 01 17:03:34 auth-server sshd[1500]: Failed password for invalid user root from 185.220.101.45 port 58944 ssh2
+Apr 01 17:05:26 web-server-01 sshd[2441]: Failed password for invalid user guest from 91.240.118.172 port 64142 ssh2
+Apr 01 17:07:22 prod-db-01 sshd[4049]: Failed password for invalid user administrator from 45.33.32.156 port 62399 ssh2
+Apr 01 17:21:59 web-server-01 sshd[3880]: Failed password for invalid user guest from 185.220.101.45 port 44101 ssh2
+Apr 01 17:23:22 prod-db-01 sshd[5640]: Failed password for jsmith from 192.168.1.10 port 60402 ssh2
+Apr 01 17:27:39 web-server-01 sshd[7826]: Failed password for invalid user oracle from 45.33.32.156 port 57959 ssh2
+Apr 01 17:31:36 app-node-02 sshd[6823]: Failed password for invalid user root from 91.240.118.172 port 49829 ssh2
+Apr 01 17:32:37 prod-db-01 sshd[9781]: Failed password for invalid user administrator from 103.75.190.12 port 61880 ssh2
+Apr 01 17:33:15 auth-server sshd[8301]: Failed password for invalid user guest from 91.240.118.172 port 42825 ssh2
+Apr 01 17:33:20 web-server-01 sshd[6008]: Failed password for invalid user oracle from 45.33.32.156 port 44700 ssh2
+Apr 01 17:36:24 app-node-02 sshd[4949]: Failed password for sarah.k from 10.0.0.8 port 49925 ssh2
+Apr 01 17:39:27 prod-db-01 sshd[8509]: Failed password for invalid user oracle from 103.75.190.12 port 45300 ssh2
+Apr 01 17:41:21 auth-server sshd[3559]: Failed password for invalid user guest from 45.33.32.156 port 52846 ssh2
+Apr 01 17:43:17 web-server-01 sshd[3439]: Failed password for invalid user root from 91.240.118.172 port 54700 ssh2
+Apr 01 17:45:32 web-server-01 sshd[2795]: Failed password for invalid user guest from 45.33.32.156 port 59391 ssh2
+Apr 01 17:52:32 prod-db-01 sshd[3598]: Failed password for invalid user test from 103.75.190.12 port 52088 ssh2
+Apr 01 17:59:04 web-server-01 sshd[9926]: Accepted password for dev01 from 10.0.0.5 port 52517 ssh2
+Apr 01 18:10:02 web-server-01 sshd[2867]: Failed password for mjones from 192.168.1.22 port 44494 ssh2
+Apr 01 18:15:05 web-server-01 sshd[4396]: Failed password for invalid user admin from 103.75.190.12 port 59765 ssh2
+Apr 01 18:17:14 auth-server sshd[1142]: Failed password for invalid user administrator from 91.240.118.172 port 46245 ssh2
+Apr 01 18:22:09 auth-server sshd[1034]: Failed password for invalid user root from 103.75.190.12 port 55290 ssh2
+Apr 01 18:22:18 auth-server sshd[9671]: Failed password for invalid user oracle from 185.220.101.45 port 60793 ssh2
+Apr 01 18:24:24 prod-db-01 sshd[9807]: Failed password for invalid user test from 185.220.101.45 port 54932 ssh2
+Apr 01 18:27:29 web-server-01 sshd[1247]: Failed password for invalid user admin from 45.33.32.156 port 55338 ssh2
+Apr 01 18:33:17 prod-db-01 sshd[9076]: Failed password for invalid user root from 194.165.16.99 port 56486 ssh2
+Apr 01 18:35:31 auth-server sshd[9551]: Failed password for invalid user oracle from 91.240.118.172 port 42413 ssh2
+Apr 01 18:36:50 prod-db-01 sshd[9905]: Accepted password for jsmith from 10.0.0.8 port 50216 ssh2
+Apr 01 18:37:37 web-server-01 sshd[7481]: Failed password for invalid user administrator from 45.33.32.156 port 53770 ssh2
+Apr 01 18:38:14 web-server-01 sshd[8943]: Failed password for invalid user oracle from 185.220.101.45 port 59406 ssh2
+Apr 01 18:38:55 app-node-02 sshd[8796]: Failed password for jsmith from 10.0.0.5 port 62555 ssh2
+Apr 01 18:39:25 prod-db-01 sshd[3176]: Failed password for invalid user administrator from 45.33.32.156 port 56816 ssh2
+Apr 01 18:41:42 prod-db-01 sshd[3599]: Failed password for invalid user oracle from 91.240.118.172 port 41645 ssh2
+Apr 01 18:45:15 web-server-01 sshd[1227]: Failed password for invalid user oracle from 185.220.101.45 port 56567 ssh2
+Apr 01 18:46:43 web-server-01 sshd[3718]: Failed password for invalid user oracle from 103.75.190.12 port 50326 ssh2
+Apr 01 18:49:52 prod-db-01 sshd[2239]: Failed password for invalid user guest from 194.165.16.99 port 40556 ssh2
+Apr 01 18:57:12 web-server-01 sshd[7432]: Failed password for invalid user admin from 194.165.16.99 port 63029 ssh2
+Apr 01 19:03:31 app-node-02 sshd[4973]: Failed password for invalid user oracle from 103.75.190.12 port 51898 ssh2
+Apr 01 19:04:56 auth-server sshd[8999]: Failed password for invalid user admin from 185.220.101.45 port 59667 ssh2
+Apr 01 19:10:44 web-server-01 sshd[8294]: Failed password for dev01 from 10.0.0.8 port 59854 ssh2
+Apr 01 19:11:51 web-server-01 sshd[2876]: Failed password for invalid user oracle from 103.75.190.12 port 58717 ssh2
+Apr 01 19:14:45 prod-db-01 sshd[1343]: Accepted password for sarah.k from 192.168.1.10 port 43196 ssh2
+Apr 01 19:18:32 auth-server sshd[6665]: Failed password for invalid user oracle from 185.220.101.45 port 59703 ssh2
+Apr 01 19:18:43 auth-server sshd[8142]: Failed password for invalid user guest from 103.75.190.12 port 48594 ssh2
+Apr 01 19:20:04 web-server-01 sshd[8833]: Accepted password for mjones from 10.0.0.5 port 48363 ssh2
+Apr 01 19:21:38 web-server-01 sshd[9500]: Failed password for invalid user administrator from 194.165.16.99 port 60167 ssh2
+Apr 01 19:23:56 app-node-02 sshd[3504]: Failed password for invalid user test from 194.165.16.99 port 63564 ssh2
+Apr 01 19:24:21 web-server-01 sshd[2211]: Failed password for invalid user guest from 45.33.32.156 port 58860 ssh2
+Apr 01 19:25:04 auth-server sshd[2955]: Failed password for invalid user admin from 103.75.190.12 port 47949 ssh2
+Apr 01 19:26:16 web-server-01 sshd[3358]: Failed password for invalid user admin from 103.75.190.12 port 55847 ssh2
+Apr 01 19:32:04 auth-server sshd[5783]: Failed password for invalid user test from 45.33.32.156 port 57096 ssh2
+Apr 01 19:34:54 auth-server sshd[5330]: Failed password for invalid user test from 194.165.16.99 port 57208 ssh2
+Apr 01 19:35:59 auth-server sshd[1563]: Failed password for invalid user oracle from 91.240.118.172 port 45534 ssh2
+Apr 01 19:36:52 app-node-02 sshd[8804]: Failed password for invalid user admin from 91.240.118.172 port 60170 ssh2
+Apr 01 19:37:21 app-node-02 sshd[6800]: Accepted password for sarah.k from 192.168.1.22 port 44643 ssh2
+Apr 01 19:43:59 prod-db-01 sshd[2442]: Failed password for invalid user oracle from 103.75.190.12 port 45705 ssh2
+Apr 01 19:45:16 app-node-02 sshd[3694]: Failed password for invalid user administrator from 185.220.101.45 port 63083 ssh2
+Apr 01 19:50:55 auth-server sshd[4337]: Failed password for invalid user root from 91.240.118.172 port 48844 ssh2
+Apr 01 19:59:32 web-server-01 sshd[8872]: Failed password for invalid user test from 45.33.32.156 port 44067 ssh2
+Apr 01 20:01:23 web-server-01 sshd[3978]: Failed password for invalid user administrator from 185.220.101.45 port 64244 ssh2
+Apr 01 20:03:09 web-server-01 sshd[5930]: Accepted password for jsmith from 10.0.0.5 port 64265 ssh2
+Apr 01 20:03:16 auth-server sshd[7817]: Accepted password for mjones from 10.0.0.5 port 46828 ssh2
+Apr 01 20:04:51 app-node-02 sshd[9886]: Accepted password for dev01 from 10.0.0.8 port 47040 ssh2
+Apr 01 20:04:58 prod-db-01 sshd[2952]: Failed password for invalid user admin from 91.240.118.172 port 42894 ssh2
+Apr 01 20:08:44 auth-server sshd[4087]: Failed password for invalid user oracle from 185.220.101.45 port 52639 ssh2
+Apr 01 20:09:27 web-server-01 sshd[5762]: Failed password for invalid user test from 91.240.118.172 port 52530 ssh2
+Apr 01 20:12:06 app-node-02 sshd[1667]: Failed password for invalid user root from 91.240.118.172 port 60594 ssh2
+Apr 01 20:13:56 auth-server sshd[6947]: Failed password for invalid user test from 45.33.32.156 port 58582 ssh2
+Apr 01 20:14:08 app-node-02 sshd[7824]: Failed password for invalid user guest from 103.75.190.12 port 42136 ssh2
+Apr 01 20:14:45 web-server-01 sshd[6149]: Failed password for invalid user administrator from 194.165.16.99 port 46044 ssh2
+Apr 01 20:19:36 prod-db-01 sshd[9717]: Failed password for invalid user test from 185.220.101.45 port 42619 ssh2
+Apr 01 20:26:38 app-node-02 sshd[8653]: Failed password for invalid user guest from 45.33.32.156 port 58306 ssh2
+Apr 01 20:33:45 prod-db-01 sshd[6211]: Failed password for invalid user admin from 103.75.190.12 port 56624 ssh2
+Apr 01 20:40:15 app-node-02 sshd[9773]: Failed password for invalid user oracle from 194.165.16.99 port 61121 ssh2
+Apr 01 20:45:47 auth-server sshd[7150]: Failed password for invalid user administrator from 103.75.190.12 port 56902 ssh2
+Apr 01 20:47:35 web-server-01 sshd[7354]: Failed password for invalid user administrator from 91.240.118.172 port 62021 ssh2
+Apr 01 20:50:23 prod-db-01 sshd[2822]: Failed password for invalid user oracle from 185.220.101.45 port 48715 ssh2
+Apr 01 20:51:30 app-node-02 sshd[4657]: Failed password for invalid user administrator from 185.220.101.45 port 48653 ssh2
+Apr 01 20:51:47 prod-db-01 sshd[5833]: Failed password for invalid user root from 185.220.101.45 port 61318 ssh2
+Apr 01 20:53:08 prod-db-01 sshd[8639]: Accepted password for sarah.k from 10.0.0.8 port 45080 ssh2
+Apr 01 20:54:34 app-node-02 sshd[3584]: Failed password for invalid user root from 194.165.16.99 port 45999 ssh2
+Apr 01 21:01:39 app-node-02 sshd[7485]: Failed password for invalid user guest from 45.33.32.156 port 57103 ssh2
+Apr 01 21:09:35 web-server-01 sshd[7433]: Failed password for invalid user root from 45.33.32.156 port 46012 ssh2
+Apr 01 21:11:36 web-server-01 sshd[7602]: Failed password for invalid user test from 194.165.16.99 port 62426 ssh2
+Apr 01 21:11:47 auth-server sshd[8127]: Failed password for invalid user test from 194.165.16.99 port 52039 ssh2
+Apr 01 21:21:54 app-node-02 sshd[9358]: Failed password for invalid user root from 91.240.118.172 port 53977 ssh2
+Apr 01 21:23:50 prod-db-01 sshd[2436]: Failed password for invalid user oracle from 91.240.118.172 port 55650 ssh2
+Apr 01 21:29:10 auth-server sshd[6222]: Failed password for invalid user oracle from 91.240.118.172 port 52229 ssh2
+Apr 01 21:30:54 prod-db-01 sshd[5583]: Failed password for invalid user administrator from 103.75.190.12 port 57180 ssh2
+Apr 01 21:32:42 auth-server sshd[4542]: Failed password for invalid user oracle from 91.240.118.172 port 59171 ssh2
+Apr 01 21:33:01 web-server-01 sshd[3989]: Failed password for invalid user guest from 185.220.101.45 port 47835 ssh2
+Apr 01 21:36:31 prod-db-01 sshd[5976]: Failed password for invalid user root from 194.165.16.99 port 63975 ssh2
+Apr 01 21:40:39 prod-db-01 sshd[6908]: Failed password for sarah.k from 192.168.1.10 port 59350 ssh2
+Apr 01 21:42:49 app-node-02 sshd[1296]: Failed password for jsmith from 192.168.1.10 port 60789 ssh2
+Apr 01 21:45:30 prod-db-01 sshd[5869]: Accepted password for jsmith from 10.0.0.8 port 42189 ssh2
+Apr 01 21:46:04 web-server-01 sshd[2386]: Failed password for invalid user oracle from 45.33.32.156 port 56522 ssh2
+Apr 01 21:52:55 web-server-01 sshd[5696]: Failed password for invalid user guest from 91.240.118.172 port 51829 ssh2
+Apr 01 21:56:34 auth-server sshd[6339]: Accepted password for sarah.k from 10.0.0.5 port 44944 ssh2
+Apr 01 21:58:30 prod-db-01 sshd[3161]: Failed password for invalid user oracle from 91.240.118.172 port 43029 ssh2
+Apr 01 22:01:22 auth-server sshd[9420]: Failed password for invalid user admin from 103.75.190.12 port 41782 ssh2
+Apr 01 22:05:53 app-node-02 sshd[8848]: Failed password for invalid user root from 91.240.118.172 port 45489 ssh2
+Apr 01 22:06:15 prod-db-01 sshd[3122]: Failed password for invalid user administrator from 45.33.32.156 port 52265 ssh2
+Apr 01 22:06:47 web-server-01 sshd[5439]: Failed password for invalid user oracle from 185.220.101.45 port 54638 ssh2
+Apr 01 22:24:44 web-server-01 sshd[1414]: Failed password for invalid user admin from 91.240.118.172 port 58540 ssh2
+Apr 01 22:29:33 app-node-02 sshd[3731]: Failed password for invalid user test from 45.33.32.156 port 41178 ssh2
+Apr 01 22:33:56 web-server-01 sshd[1207]: Failed password for jsmith from 10.0.0.8 port 41606 ssh2
+Apr 01 22:35:54 auth-server sshd[5288]: Failed password for invalid user guest from 45.33.32.156 port 53455 ssh2
+Apr 01 22:49:41 prod-db-01 sshd[8147]: Failed password for invalid user administrator from 45.33.32.156 port 42270 ssh2
+Apr 01 22:50:30 auth-server sshd[5964]: Failed password for dev01 from 192.168.1.22 port 60150 ssh2
+Apr 01 22:50:43 auth-server sshd[5206]: Failed password for invalid user administrator from 103.75.190.12 port 54973 ssh2
+Apr 01 22:52:00 prod-db-01 sshd[9086]: Failed password for invalid user test from 91.240.118.172 port 60801 ssh2
+Apr 01 22:52:51 prod-db-01 sshd[9370]: Failed password for invalid user oracle from 185.220.101.45 port 55903 ssh2
+Apr 01 22:53:49 prod-db-01 sshd[6677]: Accepted password for sarah.k from 10.0.0.8 port 54317 ssh2
+Apr 01 22:59:52 auth-server sshd[9429]: Failed password for invalid user administrator from 91.240.118.172 port 57818 ssh2
+Apr 01 23:04:48 prod-db-01 sshd[5173]: Failed password for invalid user root from 185.220.101.45 port 51563 ssh2
+Apr 01 23:07:21 prod-db-01 sshd[4429]: Failed password for invalid user guest from 91.240.118.172 port 41237 ssh2
+Apr 01 23:07:48 web-server-01 sshd[4099]: Accepted password for jsmith from 192.168.1.22 port 44421 ssh2
+Apr 01 23:10:04 prod-db-01 sshd[1888]: Failed password for invalid user oracle from 194.165.16.99 port 43255 ssh2
+Apr 01 23:10:26 web-server-01 sshd[7337]: Failed password for invalid user oracle from 185.220.101.45 port 47397 ssh2
+Apr 01 23:11:59 prod-db-01 sshd[3003]: Failed password for invalid user administrator from 91.240.118.172 port 54908 ssh2
+Apr 01 23:17:02 web-server-01 sshd[3674]: Failed password for invalid user guest from 194.165.16.99 port 52161 ssh2
+Apr 01 23:20:29 web-server-01 sshd[8050]: Failed password for invalid user admin from 103.75.190.12 port 46115 ssh2
+Apr 01 23:22:33 app-node-02 sshd[3975]: Failed password for invalid user test from 185.220.101.45 port 41737 ssh2
+Apr 01 23:23:28 web-server-01 sshd[5392]: Accepted password for sarah.k from 192.168.1.22 port 61095 ssh2
+Apr 01 23:32:07 prod-db-01 sshd[6645]: Accepted password for mjones from 10.0.0.8 port 57831 ssh2
+Apr 01 23:34:35 app-node-02 sshd[1328]: Failed password for invalid user root from 185.220.101.45 port 44087 ssh2
+Apr 01 23:35:01 auth-server sshd[6281]: Failed password for invalid user test from 194.165.16.99 port 59309 ssh2
+Apr 01 23:35:43 web-server-01 sshd[2644]: Failed password for invalid user oracle from 103.75.190.12 port 56318 ssh2
+Apr 01 23:39:48 app-node-02 sshd[1562]: Accepted password for mjones from 10.0.0.5 port 56100 ssh2
+Apr 01 23:40:24 app-node-02 sshd[8474]: Failed password for mjones from 192.168.1.10 port 57846 ssh2
+Apr 01 23:41:12 prod-db-01 sshd[2134]: Failed password for invalid user test from 103.75.190.12 port 47461 ssh2
+Apr 01 23:44:40 auth-server sshd[8632]: Failed password for invalid user guest from 91.240.118.172 port 56558 ssh2
+Apr 01 23:46:15 prod-db-01 sshd[9628]: Failed password for invalid user test from 194.165.16.99 port 43708 ssh2
+Apr 01 23:48:44 prod-db-01 sshd[6446]: Failed password for invalid user root from 194.165.16.99 port 45314 ssh2
+Apr 01 23:50:02 app-node-02 sshd[9216]: Failed password for invalid user root from 45.33.32.156 port 53154 ssh2
+Apr 01 23:51:31 web-server-01 sshd[2415]: Failed password for invalid user guest from 185.220.101.45 port 47237 ssh2
