@@ -1,0 +1,65 @@
+[
+  {
+    "ip": "185.220.101.45",
+    "country": "DE",
+    "reputation": -22,
+    "malicious": 17,
+    "suspicious": 3,
+    "harmless": 45,
+    "verdict": "MALICIOUS"
+  },
+  {
+    "ip": "103.75.190.12",
+    "country": "MY",
+    "reputation": 0,
+    "malicious": 0,
+    "suspicious": 0,
+    "harmless": 0,
+    "verdict": "CLEAN"
+  },
+  {
+    "ip": "45.33.32.156",
+    "country": "US",
+    "reputation": 0,
+    "malicious": 4,
+    "suspicious": 1,
+    "harmless": 56,
+    "verdict": "MALICIOUS"
+  },
+  {
+    "ip": "91.240.118.172",
+    "country": "HK",
+    "reputation": -1,
+    "malicious": 11,
+    "suspicious": 1,
+    "harmless": 50,
+    "verdict": "MALICIOUS"
+  },
+  {
+    "ip": "194.165.16.99",
+    "country": "MC",
+    "reputation": 0,
+    "malicious": 8,
+    "suspicious": 0,
+    "harmless": 53,
+    "verdict": "MALICIOUS"
+  },
+  {
+    "ip": "8.8.8.8",
+    "country": "US",
+    "reputation": 534,
+    "malicious": 0,
+    "suspicious": 0,
+    "harmless": 58,
+    "verdict": "CLEAN"
+  },
+  {
+    "ip": "1.1.1.1",
+    "country": "Unknown",
+    "reputation": 83,
+    "malicious": 0,
+    "suspicious": 0,
+    "harmless": 63,
+    "verdict": "CLEAN"
+  }
+]
