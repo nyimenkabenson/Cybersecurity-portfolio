@@ -1,0 +1,47 @@
+{
+  "extracted_at": "2026-04-19T22:39:39.694605",
+  "total_iocs": 21,
+  "iocs": {
+    "ipv4": [
+      "103.75.190.12",
+      "185.220.101.45",
+      "194.165.16.99",
+      "45.33.32.156",
+      "91.240.118.172"
+    ],
+    "domain": [
+      "darkmail.xyz",
+      "default.exp-tas.com",
+      "hr-portal-secure.com",
+      "objects.githubusercontent.com"
+    ],
+    "md5": [
+      "5f4dcc3b5aa765d61d8327deb882cf99"
+    ],
+    "sha1": [
+      "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    ],
+    "sha256": [
+      "2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824"
+    ],
+    "email": [
+      "payroll-update@hr-portal-secure.com",
+      "recover@darkmail.xyz"
+    ],
+    "url": [
+      "http://185.220.101.45/stage2.exe",
+      "https://objects.githubusercontent.com/payload.ps1"
+    ],
+    "cve": [
+      "CVE-2021-40444",
+      "CVE-2022-30190"
+    ],
+    "registry": [
+      "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\WindowsUpdate"
+    ],
+    "filepath": [
+      "C:\\Users\\Public\\svchost32.exe",
+      "C:\\Windows\\System32\\Tasks\\WindowsUpdateHelper"
+    ]
+  }
+}
