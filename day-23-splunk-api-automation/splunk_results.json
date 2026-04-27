@@ -1,0 +1,82 @@
+{
+  "run_timestamp": "2026-04-26 23:53:34",
+  "host": "https://10.0.2.2:8089",
+  "results": {
+    "Failed Login Summary": [
+      {
+        "src_ip": "91.240.118.172",
+        "attempts": "178"
+      },
+      {
+        "src_ip": "45.33.32.156",
+        "attempts": "168"
+      },
+      {
+        "src_ip": "185.220.101.45",
+        "attempts": "160"
+      },
+      {
+        "src_ip": "103.75.190.12",
+        "attempts": "150"
+      },
+      {
+        "src_ip": "194.165.16.99",
+        "attempts": "144"
+      }
+    ],
+    "Malicious Process Executions": [
+      {
+        "hostname": "FS-PROD-01",
+        "process": "svchost32.exe",
+        "count": "16"
+      },
+      {
+        "hostname": "WS-DANIEL-01",
+        "process": "svchost32.exe",
+        "count": "15"
+      },
+      {
+        "hostname": "WS-OPS-01",
+        "process": "svchost32.exe",
+        "count": "13"
+      },
+      {
+        "hostname": "WS-FINANCE-01",
+        "process": "svchost32.exe",
+        "count": "12"
+      },
+      {
+        "hostname": "WS-SARAH-01",
+        "process": "svchost32.exe",
+        "count": "9"
+      }
+    ],
+    "Suspicious Network Connections": [
+      {
+        "dst_ip": "10.0.0.5",
+        "port": "22",
+        "count": "8"
+      },
+      {
+        "dst_ip": "10.0.0.5",
+        "port": "443",
+        "count": "8"
+      },
+      {
+        "dst_ip": "192.168.1.22",
+        "port": "445",
+        "count": "8"
+      },
+      {
+        "dst_ip": "91.240.118.172",
+        "port": "3389",
+        "count": "8"
+      },
+      {
+        "dst_ip": "45.33.32.156",
+        "port": "22",
+        "count": "7"
+      }
+    ]
+  }
+}
