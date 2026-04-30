@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-04-29T21:13:09.809537",
+  "total": 4,
+  "results": [
+    {
+      "type": "ip",
+      "value": "185.220.101.45",
+      "virustotal": {
+        "malicious": 17,
+        "suspicious": 3,
+        "harmless": 43,
+        "country": "DE",
+        "reputation": -22,
+        "asn": 60729,
+        "as_owner": "Stiftung Erneuerbare Freiheit"
+      },
+      "whois": {
+        "registrar": "easyDNS Technologies Inc.",
+        "creation_date": "2019-02-28 13:44:09",
+        "expiration_date": "2026-02-28 13:44:09",
+        "name_servers": "['DNS1.EASYDNSSEC.COM', 'DNS2.EASYDNSSEC.NET', 'DNS3.EASYDNSSEC.ORG', 'NS1.HE.NET', 'NS2.HE.NET', 'NS3.HE.NET', 'NS4.HE.NET', 'NS5.HE.NET']",
+        "country": "Unknown",
+        "org": "Unknown"
+      },
+      "verdict": "MALICIOUS"
+    },
+    {
+      "type": "ip",
+      "value": "91.240.118.172",
+      "virustotal": {
+        "malicious": 11,
+        "suspicious": 1,
+        "harmless": 47,
+        "country": "HK",
+        "reputation": -1,
+        "asn": "Unknown",
+        "as_owner": "Unknown"
+      },
+      "whois": {
+        "registrar": "Unknown",
+        "creation_date": "Unknown",
+        "expiration_date": "Unknown",
+        "name_servers": "Unknown",
+        "country": "Unknown",
+        "org": "Unknown"
+      },
+      "verdict": "MALICIOUS"
+    },
+    {
+      "type": "domain",
+      "value": "exp-tas.com",
+      "virustotal": {
+        "malicious": 0,
+        "suspicious": 0,
+        "harmless": 59,
+        "reputation": 2,
+        "registrar": "Unknown",
+        "creation_date": "1549411200"
+      },
+      "whois": {
+        "registrar": "NOM-IQ Ltd dba Com Laude",
+        "creation_date": "2019-02-06 15:51:17",
+        "expiration_date": "[datetime.datetime(2027, 2, 6, 15, 51, 17), datetime.datetime(2027, 2, 6, 0, 0)]",
+        "name_servers": "['NS1-35.AZURE-DNS.COM', 'NS2-35.AZURE-DNS.NET', 'NS3-35.AZURE-DNS.ORG', 'NS4-35.AZURE-DNS.INFO', 'ns1-35.azure-dns.com', 'ns2-35.azure-dns.net', 'ns3-35.azure-dns.org', 'ns4-35.azure-dns.info']",
+        "country": "US",
+        "org": "Microsoft Corporation"
+      },
+      "verdict": "CLEAN"
+    },
+    {
+      "type": "domain",
+      "value": "hr-payroll-verify.xyz",
+      "virustotal": {},
+      "whois": {
+        "registrar": "Unknown",
+        "creation_date": "Unknown",
+        "expiration_date": "Unknown",
+        "name_servers": "Unknown",
+        "country": "Unknown",
+        "org": "Unknown"
+      },
+      "verdict": "CLEAN"
+    }
+  ]
+}
